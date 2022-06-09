@@ -1,0 +1,82 @@
+.conatiner {
+  width: 45%;
+  height: 45%;
+  display: flex;
+}
+
+.image {
+  display: flex;
+  width: 400px;
+  height: 620px;
+  margin: 60px 3px 23px 80px;
+}
+
+.main {
+  display: flex;
+}
+
+.right-container {
+  margin: auto;
+}
+
+a {
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+}
+
+button.btn.btn-primary.my-4 {
+  width: 120px;
+  height: 45px;
+}
+
+button.btn.btn-primary.my-4:hover {
+  color: white;
+  background-color: black
+}
+h4{
+  margin-right: 87%;
+}
+h1{
+  display: flex;
+  justify-content: center;
+}
+img{
+  height: 450px;
+}
+
+.form {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: inherit;
+
+}
+
+form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.PostCard {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  margin: auto;
+  border: 1px solid grey;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  padding: 8px 5px 0px 10px;
+}
+span{
+  margin-left: 94%;
+}
+.image2 {
+  display: contents;
+}
+.delete{
+  border: none;
+  background-color: white;
+}
